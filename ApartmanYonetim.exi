@@ -1,0 +1,13 @@
+[ApartmanProvider]
+#SQL Server,MySQL,PostgreSQL
+Provider=PostgreSQL
+
+[ApartmanUser]
+User=ADMIN
+
+[ApartmanConnect]
+Provider=PostgreSQL
+Server=185.122.39.183
+User=ozlem
+Pass=123456
+DB=ApartmanYonet
